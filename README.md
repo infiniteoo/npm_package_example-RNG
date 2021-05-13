@@ -1,3 +1,5 @@
+# NPM Package Creation Example 
+
 ## What is this?
 A random number generator
 
